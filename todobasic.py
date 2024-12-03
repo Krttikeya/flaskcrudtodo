@@ -1,3 +1,5 @@
+#A BASIC CLI TODO-LIST TRACKER, UNRELATED TO THE PROJECT..
+
 quit = 0
 tasks = []
 
