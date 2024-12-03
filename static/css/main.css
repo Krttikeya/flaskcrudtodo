@@ -1,7 +1,7 @@
 body {
     margin:0;
-    font-family: sans-serif;
-    background-color: rgb(235, 158, 142);
+    font-family: 'Poppins', sans-serif;
+    background-color: #eb9e8e;
 }
 
 .content {
@@ -9,8 +9,23 @@ body {
     width: 400px;
 }
 
+/* Style the h1 tag */
+h1 {
+    font-family: 'Merriweather', serif;
+    color: #ce2503;  /* Color for h1 */
+    text-align: center;
+}
+
+/* Style the h4 tag */
+h4 {
+    color: #5c0c00;  /* Choose any color for h4 */
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
 table, td, th {
-    border: 3px solid #fffcf2;
+    border: 3px solid #fa6d51;
+    color:#c04128;
 }
 
 table {
@@ -18,13 +33,15 @@ table {
     width: 100%;
 }
 
-th {
+table th {
     height: 30px;
+    font-family: 'Poppins', sans-serif;
 }
 
 td {
     text-align: center;
     padding: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 
 
