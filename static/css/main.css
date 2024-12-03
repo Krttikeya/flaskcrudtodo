@@ -1,0 +1,33 @@
+body {
+    margin:0;
+    font-family: sans-serif;
+    background-color: rgb(235, 158, 142);
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 3px solid #fffcf2;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+
+#content {
+    width: 70%;
+}
